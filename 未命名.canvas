@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"e9d756799efcd7a6","x":-414,"y":-120,"width":250,"height":60,"color":"3","type":"text","text":"Logic"},
-		{"id":"b613adcc59dabcef","x":4,"y":-130,"width":250,"height":60,"type":"text","text":"String"}
-	],
-	"edges":[
-		{"id":"52dbe7f65b918824","fromNode":"e9d756799efcd7a6","fromSide":"right","toNode":"b613adcc59dabcef","toSide":"left","label":"tst"}
-	]
-}
