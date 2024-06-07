@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "work/规则引擎.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5844e3b39a728216",
